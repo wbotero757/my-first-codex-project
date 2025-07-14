@@ -1,0 +1,6 @@
+# Ignore token files and local receipt files
+*.token
+*.receipt
+
+# General backup files
+*~
